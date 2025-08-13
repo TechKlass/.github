@@ -1,4 +1,5 @@
-<img src="https://github.com/TechKlass/.github/blob/master/profile/banner.png" alt="name banner" />
+
+<img src="https://github.com/TechKlass/.github/blob/master/banner.png" alt="name banner" />
 
 <h1 align="center">
   <p>🚀 TechKlass</p>
@@ -23,14 +24,9 @@
 - @Murka2009 - Сторонний разработчик
 
 ### Используемые технологии
-<span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python - Основной язык всех наших проектов, но мы любим и другие.</span>
-
-<span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="PyQt5" width="20" height="20"/> PyQt5 - Библиотека для создания интерфейса в наших Desktop приложениях.</span>
-
-<span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://github.com/TechKlass/.github/blob/master/profile/flask.svg" alt="Flask" width="20" height="20" /> Flask - Библиотека для разработки WEB приложений.</span>
-
-<span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://avatars.githubusercontent.com/u/4921466" alt="Keycloak" width="20" height="20"/> Keycloak - Инструмент управления идентификацией и доступом на наших сервисах.</span>
-
-<span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="S3" width="20" height="20"/> S3 - Обьектное хранилище, в котором хранятся фото/видео с разных сервисов.</span>
-
-<span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="20" height="20"/> Nginx - Web и прокси сервер.</span>
+- <span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python - Основной язык всех наших проектов, но мы любим и другие.</span>
+- <span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="PyQt5" width="20" height="20"/> PyQt5 - Библиотека для создания интерфейса в наших Desktop приложениях.</span>
+- <span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://github.com/TechKlass/.github/blob/master/flask.svg" alt="Flask" width="20" height="20" /> Flask - Библиотека для разработки WEB приложений.</span>
+- <span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://avatars.githubusercontent.com/u/4921466" alt="Keycloak" width="20" height="20"/> Keycloak - Инструмент управления идентификацией и доступом на наших сервисах.</span>
+- <span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="S3" width="20" height="20"/> S3 - Обьектное хранилище, в котором хранятся фото/видео с разных сервисов.</span>
+- <span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx" width="20" height="20"/> Nginx - Web и прокси сервер.</span>
