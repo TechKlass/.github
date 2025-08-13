@@ -1,9 +1,9 @@
 
 <img src="https://github.com/TechKlass/.github/blob/main/banner.png" alt="name banner" />
 
-Небольшая команда энтузиастов, которые разрабатывают полезные сервисы и инструменты. 
+### Мы небольшая команда энтузиастов, которые разрабатывают полезные сервисы и инструменты. 
 
-### Наши проекты
+## Наши проекты
 - **TechKlass Platform** – образовательная платформа инженерного профиля школы №1514.
 	- **Olympiads** - Сервис с динамическими списками олимпиад.
 	- **Materials** - Сервис с разными материалами, конспектам, уроками по различным предметам. (Stable)
@@ -14,12 +14,12 @@
 - **TechKlass Creative** - Наши видео, стримы, записи и другие медиа форматы.
 - **Другие продукты** – Мы всегда расширяемся и будем рады если в вас есть идеи для совместных проектов!
 
-### Наша команда
+## Наша команда
 - @Thorgathis - Учащийся школы №1514
 - @Pasha-Ar0 - Учащийся школы №1514
 - @Murka2009 - Сторонний разработчик
 
-### Используемые технологии
+## Используемые технологии
 - <span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="20" height="20"/> Python - Основной язык всех наших проектов, но мы любим и другие.</span>
 - <span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" alt="PyQt5" width="20" height="20"/> PyQt5 - Библиотека для создания интерфейса в наших Desktop приложениях.</span>
 - <span style="display: inline-flex; align-items: center; gap: 6px;"><img src="https://github.com/TechKlass/.github/blob/main/flask.svg" alt="Flask" width="20" height="20" /> Flask - Библиотека для разработки WEB приложений.</span>
